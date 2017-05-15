@@ -1,0 +1,5 @@
+var @test = uyhyhu;
+print @test;
+print @test;
+print @test;
+print @test;
